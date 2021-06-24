@@ -18,7 +18,7 @@ For this project my goal was to create a E-Commerce-Back-End that will allow the
 2. Run the seed command to populate the database using bash terminal `npm run seed`
 3. Start the server using bash terminal `npm run start`. The server will be running once you see app listening in the terminal
 4. Open insomnia and make get, post, put and delete request.
-![alt link= this is the place for the site preview](./assets/preview1.gif)
+![alt link= this is the place for the site preview](./Assets/preview1.gif)
 <h3 style="text-align:center;">JS-Summary</h3>
 
 * Added Packages needed for the application
@@ -48,4 +48,4 @@ For this project my goal was to create a E-Commerce-Back-End that will allow the
 >Notes: A lot of pattern matching for this project! I enjoyed the challenge :)
 
 ## Preview
-![alt link= this is the place for the site preview](./assets/preview2.gif)
+![alt link= this is the place for the site preview](./Assets/preview2.gif)
